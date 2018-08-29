@@ -1,0 +1,8 @@
+this is my todo list
+family
+research
+dev
+teach
+eat
+play
+repeat
