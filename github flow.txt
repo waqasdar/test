@@ -1,0 +1,8 @@
+1) checkout your new branch from 'dev' branch
+2) make changes
+3) commit
+4) push
+5) ask Admin to merge your push into 'dev' branch at live
+6) After the desired merge process, better to create new branch for new issue from 'dev', once again
+7) or, pull the changes from 'dev' branch into your branch
+8) got step# 2
